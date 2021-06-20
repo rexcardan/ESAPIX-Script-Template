@@ -43,7 +43,6 @@ namespace ESAPIScriptTemplate
             }
 
             context.Application.Dispose();
-            Console.Read();
         }
 
         public static void Option1(StandAloneContext context) { }
