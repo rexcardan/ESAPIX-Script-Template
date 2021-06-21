@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net462</TargetFramework>
     <Platforms>x64</Platforms>
+    <ApplicationIcon>esapix.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
