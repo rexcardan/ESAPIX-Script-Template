@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ESAPIX_16.1" Version="1.6.7841.371" />
+    <PackageReference Include="ESAPIX_16.1" Version="1.6.7841.660" />
     <Reference Include="VMS.TPS.Common.Model.Types">
       <HintPath>C:\Program Files (x86)\Varian\RTM\16.1\esapi\API\VMS.TPS.Common.Model.Types.dll</HintPath>
     </Reference>
